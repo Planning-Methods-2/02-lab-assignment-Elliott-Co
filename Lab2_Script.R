@@ -24,7 +24,7 @@ help(package="datasets")
 
 #Let's us the Violent Crime Rates by US State data 
 
-help("USArrests")
+help("USArrests") #this brings up the help tab for USA arrests testing testing
 
 # Step 1. Load the data in you session by creating an object
 
